@@ -1,0 +1,11 @@
+video:
+  source: "0"
+  width: 1920
+  height: 1080
+app:
+  use_motors: true
+pins:
+  backend: "jetson"
+writer:
+  enable: true
+  path: "outputs/session_001.mp4"
